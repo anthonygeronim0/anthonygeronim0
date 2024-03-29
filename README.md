@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo ao meu perfil do GitHub. Eu me chamo Anthony Geronimo🥳
+### Olá! Seja bem vindo ao meu perfil do GitHub. Eu me chamo Anthony Geronimo!🥳
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anthonygeronim0.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
